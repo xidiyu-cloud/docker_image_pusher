@@ -5,7 +5,6 @@ xhofe/alist:latest
 gogs/gogs:0.13.0
 kibana:7.12.1
 elasticsearch:7.12.1
-minio/minio:RELEASE.2022-09-07T05-22-35Z
 xuxueli/xxl-job-admin:2.3.1
 redis:6.2.7
 rabbitmq:3.8.34-management
