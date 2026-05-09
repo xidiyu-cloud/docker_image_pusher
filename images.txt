@@ -10,5 +10,6 @@ redis:6.2.7
 rabbitmq:3.8.34-management
 nacos/nacos-server:1.4.1
 minio/minio
+minio/minio:RELEASE.2022-09-07T05-22-35Z
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
